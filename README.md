@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pancham</h1>
+<h1 align="center">Hi 👋, I'm Pancham Lingadalli (MuddyHope)</h1>
 <h3 align="center">A developer from CSU, Fullerton</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddyhope&label=Profile%20views&color=0e75b6&style=flat" alt="muddyhope" /> </p>
