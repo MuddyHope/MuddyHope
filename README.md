@@ -45,9 +45,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muddyhope/count.svg?"  />
-</div>
+
+<a href="https://u8views.com/github/MuddyHope"><img src="https://u8views.com/api/v1/github/profiles/60110059/views/day-week-month-total-count.svg"></a>
 
 ###
 
